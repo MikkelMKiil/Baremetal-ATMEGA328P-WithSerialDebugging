@@ -3,7 +3,7 @@
 *.elf
 *.hex
 *.bin
-
+*-workspace
 # Editor files
 .vscode/
 *.swp
