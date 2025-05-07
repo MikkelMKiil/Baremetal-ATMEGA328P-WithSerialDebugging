@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "stdint.h": "c",
+            "setbaud.h": "c",
+            "io.h": "c",
+            "delay.h": "c",
+            "iom328p.h": "c",
+            "iom328pb.h": "c",
+            "stdio.h": "c",
+            "wdt.h": "c"
+        }
+    }
+}
